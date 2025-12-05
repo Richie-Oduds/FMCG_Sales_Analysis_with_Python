@@ -11,9 +11,21 @@ This is designed to support analysis of:
 - Stockouts and inventory dynamics
 - Demand forecasting and feature engineering
 
+##### I also used Scikit-Learn to
+- Understand Scikit-Learn’s structure and modules  
+- Prepare the FMCG dataset for machine learning tasks  
+- Implement encoding, scaling, and splitting techniques
+
+### Key Concepts
+- **Scikit-Learn Architecture:** Estimators, Transformers, Pipelines  
+- **Preprocessing:** Handling missing data, encoding, scaling  
+- **Train-Test Split:** Creating training and testing subsets
+
+##### **Machine Learning Component:**
+The project includes predictive modeling using Scikit-Learn to forecast units sold based on features such as price, promotions, region, brand, and date. The workflow involved data preparation, feature engineering, model training, and performance evaluation. Both Linear Regression and Random Forest Regressor models were tested and compared to identify the best-performing algorithm for demand forecasting. The goal was to understand key sales drivers and build a reliable prediction framework for inventory and sales planning.
 Each row represents one SKU on a specific day, across different sales channels and region. This project is intended for educational and portfolio-building purposes.
 
-- Link to the dataset we are using for our practice
+- Link to the dataset I am using for my practice
 
 (https://www.kaggle.com/datasets/beatafaron/fmcg-daily-sales-data-to-2022-2024?select=FMCG_2022_2024.csv)
 
