@@ -1,4 +1,4 @@
-## **Exploratory  Data Analysis on FMCG Sales Dataset**
+## **Exploratory Data Analytics and Sales Prediction Modeling for FMCG Dataset**
 
 ### **FMCG Dataset – Overview**
 
